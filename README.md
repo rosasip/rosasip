@@ -6,20 +6,22 @@ I am an Information Technology student with a strong interest in cybersecurity, 
 To build a strong IT and system administration foundation and transition into a Security Operations Center (SOC) Analyst role focused on threat detection, analysis, and incident response.
 
 
-## PROJECTS
-| Simulation Environment                        | Home Lab                         |
-|-----------------------------------------------|----------------------------------|
-| Hyper-V                                       |                                  |
+## PROJECTS - Upcoming.
 
 
-## LANGUAGES
 
-|  Types      |    Project   |
-|-------------|--------------|
-|  C          |              |
-|-------------|--------------|
-  JAVA
-|-------------|--------------|
-   SQL
-|-------------|--------------|
-  PYTHON
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![Rosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosasip&show_icons=true&theme=algolia)](https://github.com/rosasip)
