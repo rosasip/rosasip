@@ -6,7 +6,6 @@ I am an Information Technology student with a strong interest in cybersecurity, 
 To build a strong IT and system administration foundation and transition into a Security Operations Center (SOC) Analyst role focused on threat detection, analysis, and incident response.
 
 
-## PROJECTS - Upcoming.
 
 
 
