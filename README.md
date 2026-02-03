@@ -13,7 +13,7 @@ Dedicated IT student transitioning into System Administration and Security Opera
 
 ### Network Analysis
 <div>
-    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
+    <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
 </div>
 
 ## Virtualization & Hypervisors
