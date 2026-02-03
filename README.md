@@ -26,4 +26,3 @@ Dedicated IT student transitioning into System Administration and Security Opera
 
 
 
-[![Rosa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosasip&show_icons=true&theme=algolia)](https://github.com/rosasip)
