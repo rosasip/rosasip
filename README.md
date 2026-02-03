@@ -11,7 +11,7 @@ Dedicated IT student transitioning into System Administration and Security Opera
     <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
 </div>
 
-### Virtualization
+## Virtualization & Hypervisors
 <div>
     <a href="https://github.com/rosasip/Basic-CSS"><img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" /></a>
     <a href="https://github.com/rosasip/Basic-CSS"><img src="https://img.shields.io/badge/-Hyper--V-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" /></a>
