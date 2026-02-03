@@ -6,17 +6,40 @@ I am an Information Technology student with a strong interest in cybersecurity, 
 Dedicated IT student transitioning into System Administration and Security Operations. Focused on mastering Active Directory, network troubleshooting, and infrastructure automation to ensure secure and efficient enterprise environments.
 
 
+### Network Analysis
+<div>
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
+</div>
 
+### Virtualization
+<div>
+    <a href="https://github.com/rosasip/Basic-CSS"><img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" /></a>
+    <a href="https://github.com/rosasip/Basic-CSS"><img src="https://img.shields.io/badge/-Hyper--V-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+    <a href="https://github.com/rosasip/Basic-CSS"><img src="https://img.shields.io/badge/-Oracle_VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
+</div>
 
+### Operating Systems & Scripting
+<div>
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" /></a>
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" /></a>
+    <a href="https://www.coursera.org/account/accomplishments/professional-cert/3OFE5GHPRZ1F"><img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" /></a>
+    <a href="https://github.com/rosasip/HoneyPotProject/tree/main"><img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" /></a>
+    <a href="https://github.com/rosasip/File-Integrity-Checker"><img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /></a>
+</div>
 
+### Cloud Infrastructure
+<div>
+    <a href="https://github.com/rosasip/Basic-CSS"><img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+    <a href="https://github.com/rosasip/Basic-CSS"><img src="https://img.shields.io/badge/-Cloud_VPC-0052FF?&style=for-the-badge&logo=google-cloud&logoColor=white" /></a>
+</div>
 
-
-# Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-
-
+### Communication & Collaboration
+<div>
+    <a href="https://github.com/rosasip/Basic-CSS"><img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" /></a>
+    <a href="https://github.com/rosasip/Basic-CSS"><img src="https://img.shields.io/badge/-Microsoft_Teams-6264A7?&style=for-the-badge&logo=microsoft-teams&logoColor=white" /></a>
+    <a href="https://github.com/rosasip/Basic-CSS"><img src="https://img.shields.io/badge/-Outlook-0078D4?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+    <a href="https://github.com/rosasip/Basic-CSS"><img src="https://img.shields.io/badge/-Discord-5865F2?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+</div>
 
 
 
