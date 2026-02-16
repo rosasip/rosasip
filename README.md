@@ -5,6 +5,19 @@ I am an Information Technology student with a strong interest in cybersecurity, 
 ## OBJECTIVE
 Dedicated IT student transitioning into System Administration and Security Operations. Focused on mastering Active Directory, network troubleshooting, and infrastructure automation to ensure secure and efficient enterprise environments.
 
+
+
+## Web-Based Information Technology
+
+| Project Names | Primary Skill | Resources |
+| :--- | :--- | :--- |
+| Project.html | Foundational HTML | https://github.com/rosasip/Project.html |
+| Basic-CSS | External Styling | https://github.com/rosasip/Basic-CSS |
+| CSS-Layout-and-Positioning | Position & Flexbox | https://github.com/rosasip/CSS-Layout-and-Positioning |
+| CSS Transitions and Selectors | Interactive Design | https://rosasip.github.io/CSS-Transitions-and-Selectors | <br>
+
+
+
 ## Security Labs & Projects
 <div>
     <a href="https://github.com/rosasip/Basic-CSS"><img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=windows&logoColor=white" /></a>
