@@ -1,9 +1,40 @@
+
 # 👋 Hello, I'm Rosa!
+**Aspiring System Administrator | Security Operations Enthusiast**
 
-I am an Information Technology student with a strong interest in cybersecurity, actively developing system administration and security fundamentals through hands-on labs, platforms such as TryHackMe, and independent study. I am driven by a desire to understand how systems operate at a deep level and how to secure them against real-world threats. I am building a solid technical foundation to support and defend modern IT environments.
+I am an Information Technology student specializing in enterprise infrastructure and security hardening. My focus is on building resilient systems, automating administrative tasks, and understanding the "why" behind network vulnerabilities.
 
-## OBJECTIVE
-Dedicated IT student transitioning into System Administration and Security Operations. Focused on mastering Active Directory, network troubleshooting, and infrastructure automation to ensure secure and efficient enterprise environments.
+---
+
+## 🛠️ Current Technical Focus (2026)
+- **Active Directory:** Building forest/domain structures, GPO hardening, and identity management.
+- **Security Research:** Traffic analysis with Wireshark and threat modeling in virtualized environments.
+- **Automation:** Leveraging PowerShell and Bash to streamline repetitive SysAdmin tasks.
+
+---
+
+## 📂 Featured Security Labs
+### [🛡️ Enterprise Active Directory Security Lab](https://github.com/rosasip/enterprise-active-directory-security-lab)
+*Deployment of a Windows Server 2025 environment featuring automated user onboarding and GPO-based hardening.*
+- **Tools:** VMware, Windows Server, PowerShell, Group Policy.
+- **Key Outcome:** Reduced attack surface by disabling legacy protocols (LLMNR/NetBIOS) via GPO.
+
+### [🌐 Network Traffic Analysis Portfolio](https://github.com/rosasip)
+*A collection of packet captures and analysis reports focusing on identifying suspicious network behavior.*
+- **Tools:** Wireshark, TShark, Nmap.
+
+---
+
+## 🧰 Technical Toolbox
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Infrastructure** | Windows Server, Active Directory, Azure/AWS |
+| **Virtualization** | VMware, Hyper-V, Oracle VirtualBox |
+| **Security/Net** | Wireshark, Nmap, TCP/IP, VPNs |
+| **Scripting** | PowerShell, Bash, Python |
+| **OS** | Linux (Ubuntu/Debian), Windows 10/11 |
+
+---
 
 
 
