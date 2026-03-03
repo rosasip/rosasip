@@ -17,7 +17,7 @@ I am an Information Technology student specializing in enterprise infrastructure
 ### [🛡️ Enterprise Active Directory Security Lab](https://github.com/rosasip/enterprise-active-directory-security-lab)
 *Deployment of a Windows Server 2025 environment featuring automated user onboarding and GPO-based hardening.*
 - **Tools:** VMware, Windows Server, PowerShell, Group Policy.
-- **Key Achievements:** Successfully promoted a DC in a new forest (`homelab.local`) and designed a logical OU hierarchy (UAE_Assets) to streamline administrative delegation and GPO application, and implementing restricted groups via GPO.
+- **Key Achievements:** Successfully promoted a DC in a new forest (`homelab.local`) and designed a logical OU hierarchy (UAE_Assets) to streamline administrative delegation, and implementing restricted groups via GPO.
 
 
 ### [🌐 Network Traffic Analysis Portfolio](https://github.com/rosasip)
