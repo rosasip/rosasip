@@ -17,25 +17,27 @@ I am an Information Technology student specializing in enterprise infrastructure
 ### [🛡️ Enterprise Active Directory Security Lab](https://github.com/rosasip/enterprise-active-directory-security-lab)
 *Deployment of a Windows Server 2025 environment featuring automated user onboarding and GPO-based hardening.*
 - **Tools:** VMware, Windows Server, PowerShell, Group Policy.
-- **Key Outcome:** Reduced attack surface by disabling legacy protocols (LLMNR/NetBIOS) via GPO.
+- **Key Achievements:** Successfully promoted a DC in a new forest (`homelab.local`) and designed a logical OU hierarchy (UAE_Assets) to streamline administrative delegation and GPO application, and implementing restricted groups via GPO.
+
 
 ### [🌐 Network Traffic Analysis Portfolio](https://github.com/rosasip)
 *A collection of packet captures and analysis reports focusing on identifying suspicious network behavior.*
 - **Tools:** Wireshark, TShark, Nmap.
+- **Key Outcome:** Identified anomalous DNS and HTTP traffic patterns to simulate real-world threat detection.
 
 ---
 
 ## 🧰 Technical Toolbox
+
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Infrastructure** | Windows Server, Active Directory, Azure/AWS |
-| **Virtualization** | VMware, Hyper-V, Oracle VirtualBox |
-| **Security/Net** | Wireshark, Nmap, TCP/IP, VPNs |
-| **Scripting** | PowerShell, Bash, Python |
-| **OS** | Linux (Ubuntu/Debian), Windows 10/11 |
+| **Security & Net** | Wireshark, Nmap, Metasploit, John the Ripper, CyberChef, Crackstation, TCP/IP |
+| **Infrastructure** | Windows Server 2025, Active Directory (AD DS), Microsoft Entra ID |
+| **Virtualization** | VMware Workstation, Hyper-V, Oracle VirtualBox |
+| **OS & Scripting** | Linux (Ubuntu/Debian), Windows 10/11, PowerShell, Bash, Python |
+| **Support Tech** | ServiceNow/Ticketing, Remote Desktop (RDP), Hardware Troubleshooting |
 
 ---
-
 
 
 ## Security Labs & Projects
