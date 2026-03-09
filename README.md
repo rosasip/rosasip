@@ -22,7 +22,7 @@ I’m an IT student passionate about enterprise infrastructure and security hard
 
 ### [🌐 Wireshark-Network-Traffic-Analysis](https://github.com/rosasip/Wireshark-Network-Traffic-Analysis/tree/main)
 *A collection of packet captures and analysis reports focusing on identifying suspicious network behavior.*
-- **Tools:** Wireshark, TShark, Nmap.
+- **Tools:** Wireshark, Nmap.
 - **Key Outcome:** Identified anomalous DNS and HTTP traffic patterns to simulate real-world threat detection.
 
 ---
