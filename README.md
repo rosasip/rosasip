@@ -40,7 +40,7 @@ I’m an IT student passionate about enterprise infrastructure and security hard
 ---
 
 
-## Security Labs & Projects
+## Infrastructure & Security Deployments
 <div>
     <a href="https://github.com/rosasip/Basic-CSS"><img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=windows&logoColor=white" /></a>
     <a href="https://github.com/rosasip/Basic-CSS"><img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" /></a>
