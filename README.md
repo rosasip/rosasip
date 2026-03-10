@@ -9,7 +9,7 @@ I’m an IT student passionate about enterprise infrastructure and security hard
 ## 🛠️ Current Technical Focus (2026)
 - **Active Directory:** Building forest/domain structures, GPO hardening, and identity management.
 - **Security Research:** Traffic analysis with Wireshark and threat modeling in virtualized environments.
-- **Automation:** Leveraging PowerShell and Bash to streamline repetitive SysAdmin tasks.
+- **Automation:** Leveraging PowerShell and Bash and Python to streamline repetitive SysAdmin tasks.
 
 ---
 
