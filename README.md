@@ -48,7 +48,7 @@ I’m an IT student passionate about enterprise infrastructure and security hard
 
 ### Network Analysis
 <div>
-    <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
+    <a href="https://github.com/rosasip/Wireshark-Network-Traffic-Analysis/tree/main"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
 </div>
 
 ## Virtualization & Hypervisors
