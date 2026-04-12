@@ -1,6 +1,5 @@
 
 # 👋 Hello, I'm Rosa!
-**Aspiring System Administrator | Security Operations Enthusiast**
 
 I’m an IT student passionate about enterprise infrastructure and security hardening. I focus on building resilient systems, automating administrative tasks, and understanding the “why” behind network vulnerabilities. I’m interested in cybersecurity roles where I can leverage infrastructure expertise like IAM, SOC analysis, and cloud security.
 
