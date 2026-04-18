@@ -9,16 +9,16 @@
 
 <br>
 
-## 🔒 About Me
+## About Me:
 
 I’m an **IT Student** passionate about **enterprise infrastructure** and **security hardening**. I focus on building resilient systems, automating administrative tasks, and understanding the “why” behind network vulnerabilities. 
 
 <br>
 
 
-## 🛠️ Technologies
+## Technologies
 
-### 🖥️ Infrastructure & Systems
+### Infrastructure & Systems
 <div>
 <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Active_Directory-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -29,14 +29,14 @@ I’m an **IT Student** passionate about **enterprise infrastructure** and **sec
 
 ---
 
-### 🌐 Networking & Analysis
+### Networking & Analysis
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
 ---
 
-### 💻 Operating Systems & Scripting
+### Operating Systems & Scripting
 <div>
 <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
@@ -46,7 +46,7 @@ I’m an **IT Student** passionate about **enterprise infrastructure** and **sec
 
 ---
 
-### ☁️ Cloud
+### Cloud
 <div>
 <img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/-VPC-0052FF?&style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -54,7 +54,7 @@ I’m an **IT Student** passionate about **enterprise infrastructure** and **sec
 
 ---
 
-### 🗄️ Languages & Databases
+### Languages & Databases
 <div>
 <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
@@ -66,7 +66,7 @@ I’m an **IT Student** passionate about **enterprise infrastructure** and **sec
 
 ---
 
-### 🤝 Tools & Collaboration
+### Tools & Collaboration
 <div>
 <img src="https://img.shields.io/badge/-Slack-4A154B?&style=for-the-badge&logo=Slack&logoColor=white" />
 <img src="https://img.shields.io/badge/-Teams-6264A7?&style=for-the-badge&logo=microsoft-teams&logoColor=white" />
