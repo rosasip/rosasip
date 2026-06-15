@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Rosa!
+<br>
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=28&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=650&lines=Service+Desk+Analyst;IT+Student+@+UCF;IT+Infrastructure+%26+Security;Troubleshooting+%7C+Systems+%7C+Networking)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=900&lines=Service+Desk+Analyst;Information+Technology+Student+%40+UCF;Windows+Administration+%7C+Networking+%7C+Security;Learning+by+Building)
 
 </div>
 
