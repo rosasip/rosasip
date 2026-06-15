@@ -11,7 +11,8 @@
 
 ## About Me:
 
-I’m an **IT Student** passionate about **enterprise infrastructure** and **security hardening**. I focus on building resilient systems, automating administrative tasks, and understanding the “why” behind network vulnerabilities. 
+I enjoy learning by building. My GitHub is where I document projects, labs, and experiments across cybersecurity, systems administration, networking, and IT.
+I spend time working on homelab projects, exploring security concepts, and turning technical curiosity into hands-on work. Feel free to browse my pinned repos, that's where the real stuff lives.
 
 <br>
 
